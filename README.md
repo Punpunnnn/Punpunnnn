@@ -1,6 +1,5 @@
 <h1>Hi, I’m Harfa Sabri AKA Punpunnnnn</h1>
-<img src="[https://media3.giphy.com/media/aUovxH8Vf9qDu/giphy.gif](https://im.ezgif.com/tmp/ezgif-1-02ffcb01b2.gif)
-"/>
+![https://media3.giphy.com/media/aUovxH8Vf9qDu/giphy.gif](https://im.ezgif.com/tmp/ezgif-1-02ffcb01b2.gif)
 
 - 👀 I’m interested in Web Development
 - 🌱 I’m currently learning HTML,CSS,Javascript
