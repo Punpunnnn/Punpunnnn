@@ -1,5 +1,6 @@
 <h1>Hi, I’m Harfa Sabri AKA Punpunnnnn</h1>
-![tingyunn](https://github.com/Punpunnnn/Punpunnnn/assets/103581215/23a2080e-db18-4994-8ce1-f499dc18f7f1)
+![tingyunn](https://github.com/Punpunnnn/Punpunnnn/assets/103581215/76d23f8f-99d6-4f09-990d-b6eb0c1d5b50)
+
 
 
 
