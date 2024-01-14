@@ -1,8 +1,4 @@
 <h1>Hi, I’m Harfa Sabri AKA Punpunnnnn</h1>
-![tingyunn](https://github.com/Punpunnnn/Punpunnnn/assets/103581215/76d23f8f-99d6-4f09-990d-b6eb0c1d5b50)
-
-
-
 
 - 👀 I’m interested in Web Development
 - 🌱 I’m currently learning HTML,CSS,Javascript
